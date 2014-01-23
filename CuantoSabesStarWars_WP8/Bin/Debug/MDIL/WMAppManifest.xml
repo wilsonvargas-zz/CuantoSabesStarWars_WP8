@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
+  <DefaultLanguage xmlns="" code="en-US" />
+  <Languages xmlns="">
+    <Language code="es" />
+    <Language code="es-AR" />
+    <Language code="es-VE" />
+    <Language code="es-BO" />
+    <Language code="es-CL" />
+    <Language code="es-CO" />
+    <Language code="es-CR" />
+    <Language code="es-DO" />
+    <Language code="es-EC" />
+    <Language code="es-SV" />
+    <Language code="es-GT" />
+    <Language code="es-HN" />
+    <Language code="es-419" />
+    <Language code="es-MX" />
+    <Language code="es-NI" />
+    <Language code="es-PA" />
+    <Language code="es-PY" />
+    <Language code="es-PE" />
+    <Language code="es-PR" />
+    <Language code="es-US" />
+    <Language code="es-ES" />
+    <Language code="es-UY" />
+  </Languages>
+  <App xmlns="" ProductID="{90390457-037c-4cb8-b3a4-ce37c06b38c3}" Title="¿Cuánto sabes de Star Wars?" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="Wilson Vargas" Description="¿Cuánto sabes de Star Wars? App" Publisher="CuantoSabesStarWars_WP8" PublisherID="{f818b6ea-2592-4f52-b39b-cdf3874607da}">
+    <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_NETWORKING" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="CuantoSabesStarWars_WP8Token" TaskName="_default">
+        <TemplateFlip>
+          <SmallImageURI IsRelative="true" IsResource="false">Assets\Tiles\FlipCycleTileSmall.png</SmallImageURI>
+          <Count>0</Count>
+          <BackgroundImageURI IsRelative="true" IsResource="false">Assets\Tiles\FlipCycleTileMedium.png</BackgroundImageURI>
+          <Title></Title>
+          <BackContent></BackContent>
+          <BackBackgroundImageURI></BackBackgroundImageURI>
+          <BackTitle></BackTitle>
+          <LargeBackgroundImageURI IsRelative="true" IsResource="false">Assets\Tiles\FlipCycleTileLarge.png</LargeBackgroundImageURI>
+          <LargeBackContent />
+          <LargeBackBackgroundImageURI IsRelative="true" IsResource="false"></LargeBackBackgroundImageURI>
+          <DeviceLockImageURI></DeviceLockImageURI>
+          <HasLarge>True</HasLarge>
+        </TemplateFlip>
+      </PrimaryToken>
+    </Tokens>
+    <ScreenResolutions>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+    </ScreenResolutions>
+  </App>
+</Deployment>
+<!-- WPSDK Version 8.0.9900 -->

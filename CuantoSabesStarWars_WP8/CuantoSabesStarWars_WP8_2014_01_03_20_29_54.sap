@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProfilerSession Type="Monitoring" Name="CuantoSabesStarWars_WP83125832611">
+  <TargetApplication Name="CuantoSabesStarWars_WP8_Release_AnyCPU" SourceProject="CuantoSabesStarWars_WP8.csproj" Type="WindowsPhone">
+    <ApplicationBinary Path="Bin\Release\CuantoSabesStarWars_WP8_Release_AnyCPU.xap" Timestamp="01/03/2014 7:50:41 PM" />
+    <ApplicationIconPath Path="" />
+    <SymbolPaths>
+      <Path Value="Bin\Release\" />
+    </SymbolPaths>
+  </TargetApplication>
+  <Settings>
+    <Probe Name="Visual">
+      <CollectElementLevelCosting Enabled="True" />
+      <CollectSnapshots Enabled="True" Interval="1000" Resampling="2" />
+      <CollectMediaEvents Enabled="False" />
+      <CollectCacheDetails Enabled="False" />
+    </Probe>
+    <Probe Name="Code">
+      <SampleCallStack Enabled="True" Depth="4294967295" Interval="10" />
+      <CollectPerformanceCounters Enabled="False" />
+    </Probe>
+    <Probe Name="Memory">
+      <MemoryCallStack Enabled="True" Depth="8" />
+      <ObjectTree Enabled="True" Interval="5" />
+    </Probe>
+  </Settings>
+  <Data>
+    <Logs>
+      <File Type="NativeFormat" Path="PerfLogs\CuantoSabesStarWars_WP83125832611\tmp1F04.spl" />
+      <File Type="SRUMData" Path="PerfLogs\CuantoSabesStarWars_WP83125832611\tmp1F05.srum" />
+    </Logs>
+  </Data>
+  <TargetDeviceSettings OSVersion="8.0.9903" AvailablePhysicalMemoryAtStartup="0" ProcessorArchitectureType="Intel" ProcessorInformation="X86" IsEmulator="True" />
+</ProfilerSession>

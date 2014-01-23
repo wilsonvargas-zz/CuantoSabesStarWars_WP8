@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<!--Lista de Preguntas-->
+<preguntas>
+  <pregunta id="1">
+    <contenido>¿Cuál es el índice de midi-chlorianos que tiene Anakin en su sangre?</contenido>
+    <r1>Más de 20.000 por célula</r1>
+    <r2>3.141.592 por célula</r2>
+    <r3>Menos que el Maestro Yoda</r3>
+    <r4>Más de 50.000 por célula</r4>
+    <r5>No tiene uno especifico</r5>
+  </pregunta>
+<pregunta id="2">
+    <contenido>¿Cuál es la única figura de juguete del universo Star Wars en la que el personaje representado está serio o sonriendo según la edición?</contenido>
+    <r1>Lando Calrissian</r1>
+    <r2>La princesa Leia</r2>
+    <r3>Chewbacca</r3>
+    <r4>El maestro Yoda</r4>
+    <r5>Han Solo</r5>
+  </pregunta>
+<pregunta id="3">
+    <contenido>¿A qué especie de criatura pertenece el Maestro Yoda?</contenido>
+    <r1>Es una raza desconocida</r1>
+    <r2>Es un Yaddle</r2>
+    <r3>Es un Gasgano </r3>
+    <r4>Es un Wookiee</r4>
+    <r5>Es un Gungan</r5>
+  </pregunta>
+<pregunta id="4">
+    <contenido>¿Qué le contesta Han Solo a la princesa Leia cuando ésta le dice que le ama?</contenido>
+    <r1>Lo sé</r1>
+    <r2>Y yo a ti más</r2>
+    <r3>Yo también te amo</r3>
+    <r4>Lo siento, pero yo no</r4>
+    <r5>Estoy confundido</r5>
+  </pregunta>
+<pregunta id="5">
+    <contenido>¿Cuál fue la primera escena de efectos especiales creada por Industrial Light y Magic?</contenido>
+    <r1>El escape de una cápsula desde una nave Rebelde</r1>
+    <r2>El vuelo de un X-Wing pilotado por Luke Skywalker</r2>
+    <r3>La explosión de la Estrella de la Muerte</r3>
+    <r4>La muerte de Jabba The Hutt</r4>
+    <r5>La batalla de Endor</r5>
+  </pregunta>
+<pregunta id="6">
+    <contenido>¿Cómo se llama el hijo de Han Solo y la princesa Leia?</contenido>
+    <r1>Anakin</r1>
+    <r2>Valorum</r2>
+    <r3>Jabba</r3>
+    <r4>Sebulba</r4>
+    <r5>Jabba The Hutt</r5>
+  </pregunta>
+<Pregunta id="7"> 
+    <contenido>¿Quién es el padre de Anakin Skywalker/Darth Vader?</contenido>
+    <r1>Sólo George Lucas lo sabe</r1>
+    <r2>Un personaje desconocido</r2>
+    <r3>Un campesino de Tatooine</r3>
+    <r4>El senador Palpatine/Darth Sidious</r4>
+    <r5>Nadie sabe de su existencia</r5>
+  </Pregunta>
+<pregunta id="8">
+    <contenido>¿Cuál es la primera nave Rebelde que aparece en la película "Una Nueva Esperanza"?</contenido>
+    <r1>El Tantive IV</r1>
+    <r2>El Halcón Milenario</r2>
+    <r3>Un Destructor de la República</r3>
+    <r4>La Estrella de la Muerte</r4>
+    <r5>El Halcón Destructor</r5>
+  </pregunta>
+<pregunta id="9">
+    <contenido>"¿Quién es más loco, el loco o el loco que sigue al loco?" Fue una frase pronunciada por:</contenido>
+    <r1>Obi-Wan Kenobi</r1>
+    <r2>Qui-Gon Jinn</r2>
+    <r3>Han Solo</r3>
+    <r4>Yoda</r4>
+    <r5>Jabba The Hutt</r5>
+  </pregunta>
+<pregunta id="10">
+    <contenido>¿Quién era el máximo competidor de Anakin en las carreras de vainas?</contenido>
+    <r1>Sebulba</r1>
+    <r2>Zurga The Hutt</r2>
+    <r3>Oddy Mandrell</r3>
+    <r4>Teemto Pagalies</r4>
+    <r5>Jabba The Hutt</r5>
+  </pregunta>
+<pregunta id="11">
+    <contenido>¿Cuál es el nombre del padre adoptivo de Leia?</contenido>
+    <r1>Bail</r1>
+    <r2>Ozzel</r2>
+    <r3>Antilles</r3>
+    <r4>Hazel</r4>
+    <r5>Palpatine</r5>
+  </pregunta>
+<pregunta id="12">
+    <contenido>¿De qué raza es el cazarrecompensas que asesina Han Solo en la Cantina de Mos Eisley?</contenido>
+    <r1>Rodiana</r1>
+    <r2>Sullustana</r2>
+    <r3>Saleucami</r3>
+    <r4>Twi'lek</r4>
+    <r5>Ewok</r5>
+  </pregunta>
+<pregunta id="13">
+    <contenido>¿Qué tipo de unidad es el androide R2-D2?</contenido>
+    <r1>Astromecánico</r1>
+    <r2>Reparaciones</r2>
+    <r3>Utilitario</r3>
+    <r4>Compañía</r4>
+    <r5>Mecánico</r5>
+  </pregunta>
+<pregunta id="14">
+    <contenido>¿A qué casta guerrera pertenece el temido cazarrecompensas Boba Fett?</contenido>
+    <r1>Mandaloriano</r1>
+    <r2>Echani</r2>
+    <r3>Gamorreano</r3>
+    <r4>Pregriano</r4>
+    <r5>Ninguna</r5>
+  </pregunta>
+<pregunta id="15">
+    <contenido>¿A qué raza pertenece el aprendiz de Sith Darth Maul?</contenido>
+    <r1>Iridoniano</r1>
+    <r2>Anzati</r2>
+    <r3>Cereano</r3>
+    <r4>Kaminoano</r4>
+    <r5>Ninguna</r5>
+  </pregunta>
+<pregunta id="16">
+    <contenido>¿En qué planeta se creó el Ejército Clon?</contenido>
+    <r1>Kamino</r1>
+    <r2>Utapau</r2>
+    <r3>Hegel</r3>
+    <r4>Ryloth</r4>
+    <r5>Mustafar</r5>
+  </pregunta>
+<pregunta id="17">
+    <contenido>¿De qué color es el sable de luz del Maestro Mace Windu?</contenido>
+    <r1>Violeta</r1>
+    <r2>Amarillo</r2>
+    <r3>Verde</r3>
+    <r4>Azul</r4>
+    <r5>Rojo</r5>
+  </pregunta>
+<pregunta id="18">
+    <contenido>¿Quién es Darth Tyrannus?</contenido>
+    <r1>El Conde Dooku</r1>
+    <r2>El Canciller Palpatine</r2>
+    <r3>El Gran Almirante Thrawn</r3>
+    <r4>El Maestro Yoda</r4>
+    <r5>Ninguno de la lista</r5>
+  </pregunta>
+<pregunta id="19">
+    <contenido>¿A qué bestia se enfrenta Luke Skywalker en las mazmorras del Palacio de Jabba?</contenido>
+    <r1>Rancor</r1>
+    <r2>Wampa</r2>
+    <r3>Gundark</r3>
+    <r4>Acklay</r4>
+    <r5>Chewbacca</r5>
+  </pregunta>
+<pregunta id="20">
+    <contenido>¿Cuántos episodios de StarWars hay?</contenido>
+    <r1>6</r1>
+    <r2>3</r2>
+    <r3>4</r3>
+    <r4>2</r4>
+    <r5>5</r5>
+  </pregunta>
+<pregunta id="21">
+    <contenido>¿Cómo se llama el episodio 1 de StarWars?</contenido>
+    <r1>La amenaza fantasma</r1>
+    <r2>El ataque de los clones</r2>
+    <r3>La venganza de los Sith</r3>
+    <r4>Una nueva esperanza</r4>
+    <r5>El imperio Contraataca</r5>
+  </pregunta>
+<pregunta id="22">
+    <contenido>¿Cómo se llama el arma de los Jedi y Sith?</contenido>
+    <r1>Sable de luz</r1>
+    <r2>Espada Luminosa</r2>
+    <r3>Espada Gloriosa</r3>
+    <r4>Sable de esperanza</r4>
+    <r5>Sable sagrado</r5>
+  </pregunta>
+<pregunta id="23">
+    <contenido>En el episodio dos, ¿Cómo se llama el planeta perdido de Obin Wan Kenobi?</contenido>
+    <r1>Camino</r1>
+    <r2>Koltasceo</r2>
+    <r3>Courscant</r3>
+    <r4>Kenobi Planet</r4>
+    <r5>Courscant Planet</r5>
+  </pregunta>
+<pregunta id="24">
+    <contenido>¿Cómo se llama el productor de todas las películas de Star Wars?</contenido>
+    <r1>George Lucas</r1>
+    <r2>Steven Spielberg</r2>
+    <r3>Aaron Allard</r3>
+    <r4>Bernard Gordon</r4>
+    <r5>Walter F. Parkes</r5>
+  </pregunta>
+<pregunta id="25">
+    <contenido>¿Quién es el Canciller Palpatine?</contenido>
+    <r1>El traidor del imperio</r1>
+    <r2>El traidor de la CSI</r2>
+    <r3>El traidor del gobierno</r3>
+    <r4>El traidor de la Republica</r4>
+    <r5>El traidor de la humanidad</r5>
+  </pregunta>
+<pregunta id="26">
+    <contenido>¿Cuántos videojuegos de LEGO Star Wars hay?</contenido>
+    <r1>3</r1>
+    <r2>5</r2>
+    <r3>6</r3>
+    <r4>2</r4>
+    <r5>8</r5>
+  </pregunta>
+<pregunta id="27">
+    <contenido>¿Quién es un Jedi y después un Sith?</contenido>
+    <r1>Anakin Skywalker</r1>
+    <r2>El maestro Yoda</r2>
+    <r3>D2R2</r3>
+    <r4>Sebulba</r4>
+    <r5>Chewbacca</r5>
+  </pregunta>
+<pregunta id="28">
+    <contenido>¿Cómo se llama la poderosa estación espacial del malvado Imperio?</contenido>
+    <r1>Estrella de la muerte</r1>
+    <r2>Halcón Milenario</r2>
+    <r3>Estrella del Apocalipsis</r3>
+    <r4>Estrella de la Perdición</r4>
+    <r5>Sol de la Muerte</r5>
+  </pregunta>
+<pregunta id="29">
+    <contenido>¿A quién le pertenece la siguiente frase: “Pides lo imposible”?</contenido>
+    <r1>Luke Skywalker</r1>
+    <r2>El maestro Yoda</r2>
+    <r3>Leia</r3>
+    <r4>Han Solo</r4>
+    <r5>Ackbar</r5>
+  </pregunta>
+<pregunta id="30">
+    <contenido>¿Cómo se llama la nave de Han Solo?</contenido>
+    <r1>Halcón Milenario</r1>
+    <r2>Halcón de la muerte</r2>
+    <r3>Enterprise</r3>
+    <r4>Halcón Galáctico</r4>
+    <r5>Estrella de la Muerte</r5>
+  </pregunta>
+<pregunta id="31">
+    <contenido>¿De qué raza es Chewbacca?</contenido>
+    <r1>Wookiee</r1>
+    <r2>Ewok</r2>
+    <r3>Jawa</r3>
+    <r4>Hutt</r4>
+    <r5>Gungan</r5>
+  </pregunta>
+<pregunta id="32">
+    <contenido>¿Quién le dice a Luke Skywaker la siguiente frase: 'No lo intentes. Hazlo, o no lo hagas, pero no lo intentes'?</contenido>
+    <r1>El maestro Yoda</r1>
+    <r2>El Emperador</r2>
+    <r3>La Princesa Leia</r3>
+    <r4>Darth Vader</r4>
+    <r5>Obi-Wan Kenobi</r5>
+  </pregunta>
+<pregunta id="33">
+    <contenido>¿Cuál es el arma tradicional de los Caballeros Jedi?</contenido>
+    <r1>El sable luminoso</r1>
+    <r2>Linternas de colores</r2>
+    <r3>Látigos luminosos</r3>
+    <r4>No usan armas, sólo emplean La Fuerza</r4>
+    <r5>Pistolas láser</r5>
+  </pregunta>
+<pregunta id="34">
+    <contenido>¿Cómo se llama el maestro de Obi-Wan Kenobi?</contenido>
+    <r1>Qui-Gon Jinn</r1>
+    <r2>Yoda</r2>
+    <r3>Windu</r3>
+    <r4>Darth Vader</r4>
+    <r5>Han</r5>
+  </pregunta>
+<pregunta id="35">
+    <contenido>¿De quién se enamora la Princesa Leia?</contenido>
+    <r1>Han Solo</r1>
+    <r2>Jabba The Hutt</r2>
+    <r3>Anakin Skywalker</r3>
+    <r4>Luke Skywalker</r4>
+    <r5>Lando Calrissian</r5>
+  </pregunta>
+<pregunta id="36">
+    <contenido>¿Cuántos premios del Oscar gano StarWars en sus 6 episodios?</contenido>
+    <r1>7</r1>
+    <r2>5</r2>
+    <r3>10</r3>
+    <r4>6</r4>
+    <r5>8</r5>
+  </pregunta>
+<pregunta id="37">
+    <contenido>¿Cómo se llama el episodio 2?</contenido>
+    <r1>El ataque de los clones</r1>
+    <r2>La amenaza fantasma</r2>
+    <r3>La venganza de los Sith</r3>
+    <r4>Una nueva esperanza</r4>
+    <r5>El retorno del Jedi</r5>
+  </pregunta>
+<pregunta id="38">
+    <contenido>¿Cómo se llama el episodio 3?</contenido>
+    <r1>La venganza de los Sith</r1>
+    <r2>La amenaza fantasma</r2>
+    <r3>El ataque de los clones</r3>
+    <r4>El imperio Contraataca</r4>
+    <r5>Una nueva esperanza</r5>
+  </pregunta>
+<pregunta id="39">
+    <contenido>¿Cómo se llama el episodio 4?</contenido>
+    <r1>Una nueva esperanza</r1>
+    <r2>La amenaza fantasma</r2>
+    <r3>El imperio Contraataca</r3>
+    <r4>La venganza de los Sith</r4>
+    <r5>El ataque de los clones</r5>
+  </pregunta>
+<pregunta id="40">
+    <contenido>¿Cómo se llama el episodio 5?</contenido>
+    <r1>El imperio Contraataca</r1>
+    <r2>Una nueva esperanza</r2>
+    <r3>El ataque de los clones</r3>
+    <r4>La amenaza fantasma</r4>
+    <r5>El retorno del Jedi</r5>
+  </pregunta>
+<pregunta id="41">
+    <contenido>¿Cómo se llama el episodio 6?</contenido>
+    <r1>El retorno del Jedi</r1>
+    <r2>Una nueva esperanza</r2>
+    <r3>El ataque de los clones</r3>
+    <r4>La amenaza fantasma</r4>
+    <r5>El imperio Contraataca</r5>
+  </pregunta>
+<pregunta id="42">
+    <contenido>¿Cómo se llama el jefe de seguridad de la reina Amidala?</contenido>
+    <r1>Panaka</r1>
+    <r2>Zuckuss</r2>
+    <r3>Fang Zar</r3>
+    <r4>Padme</r4>
+    <r5>Yoda</r5>
+  </pregunta>
+<pregunta id="43">
+    <contenido>¿Cuál es el rival de Anakin en la carrera de vainas?</contenido>
+    <r1>Sebulba</r1>
+    <r2>Mon Mothma</r2>
+    <r3>Nadie</r3>
+    <r4>Chalmun</r4>
+    <r5>SarLabooda</r5>
+  </pregunta>
+<pregunta id="44">
+    <contenido>¿Quién mata a Jabba The Hutt?</contenido>
+    <r1>La princesa Leia</r1>
+    <r2>Una explosion provocada por Luke Skywalker</r2>
+    <r3>Han Solo</r3>
+    <r4>No muere</r4>
+    <r5>Nadie</r5>
+  </pregunta>
+<pregunta id="45">
+    <contenido>¿Cuál de estos personajes aparece en los seis episodios de la saga Star Wars?</contenido>
+    <r1>R2D2</r1>
+    <r2>Yoda</r2>
+    <r3>El emperador</r3>
+    <r4>Boba Fett</r4>
+    <r5>Windu</r5>
+  </pregunta>
+<pregunta id="46">
+    <contenido>¿Cómo se llama el sistema helado que aparece en el episodio V?</contenido>
+    <r1>Hoth</r1>
+    <r2>Kunom</r2>
+    <r3>Anoat</r3>
+    <r4>Lando</r4>
+    <r5>Ninguno</r5>
+  </pregunta>
+<pregunta id="47">
+    <contenido>Dagobah es…</contenido>
+    <r1>Un Planeta</r1>
+    <r2>Un cazarecompensas</r2>
+    <r3>Un modelo de nave</r3>
+    <r4>Una raza desconocida.</r4>
+    <r5>Un Sith</r5>
+</pregunta>
+<pregunta id="48">
+    <contenido>¿En qué episodio no sale Jabba The hutt?</contenido>
+    <r1>II, III y VI</r1>
+    <r2>I, II y IV</r2>
+    <r3>I, III y IV</r3>
+    <r4>III, IV y V</r4>
+    <r5>I, V y II</r5>
+</pregunta>
+<pregunta id="49">
+    <contenido>¿Cuántos destructores estelares caen en la Batalla de Endor?</contenido>
+    <r1>Más de 24</r1>
+    <r2>8</r2>
+    <r3>24</r3>
+    <r4>17</r4>
+    <r5>16</r5>
+</pregunta>
+<pregunta id="50">
+    <contenido>¿Quién ordena desactivar a los androides?</contenido>
+    <r1>Palpatine</r1>
+    <r2>Yoda</r2>
+    <r3>Windu</r3>
+    <r4>Han Solo</r4>
+    <r5>Luke Skywalker</r5>
+  </pregunta>
+</preguntas>
+
